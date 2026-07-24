@@ -1,7 +1,7 @@
 # DIY ECG Machine using Arduino Nano and AD8232
 
 ## Course Code EEE 2122
-Jamalpur Science and Technlogy University
+Jamalpur Science and Technology University
 ## 👥 Group Members:
 - SM Saiful Islam Tutul
 - Dhruba Acharjee
