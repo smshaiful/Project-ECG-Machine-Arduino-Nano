@@ -8,6 +8,9 @@ Jamalpur Science and technlogy University
 - AD8232 ECG Module
 - Electrodes (3 lead)
 
+## Circuit Diagram
+![Circuit](circuit-diagram.png)
+
 ## Features
 - Real-time ECG signal display
 - BPM detection
