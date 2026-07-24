@@ -1,12 +1,24 @@
 # DIY ECG Machine using Arduino Nano and AD8232
 
 ## Course Code EEE 2122
-Jamalpur Science and technlogy University
+Jamalpur Science and Technlogy University
+## 👥 Group Members:
+- SM Saiful Islam Tutul
+- Dhruba Acharjee
+- Nahiyan Mokarrim
+- Naymul Islam Bhuyan
+- Yeasin Bhuiyan
+- Sanot Kumar Ghosh
+
+## Supervisor
+Md Mahfuzul Haque, Assistant Professor, EEE, JSTU
 
 ## Components
 - Arduino Nano
 - AD8232 ECG Module
 - Electrodes (3 lead)
+- ECG gel
+- Female To Female Wire
 
 ## Circuit Diagram
 ![Circuit](circuit-diagram.png)
@@ -87,10 +99,9 @@ If electrode gets disconnected from body —
 ![Project Running ](project_image_running.jpeg)
 
 ## Project presentation video
+ 🎥 Demo Video
+[▶ Watch Demo on YouTube](https://youtu.be/joZa_iyXXQM?si=kgzlvJR6DlNOQI7t)
 
 
 
 
-
-## Supervisor
-Md Mahfuzul Haque, Assistant Professor, EEE, JSTU
