@@ -82,9 +82,9 @@ If electrode gets disconnected from body —
 - Lead-off detection
 
 ## Final project View 
-![Project](Progect_image.png)
+![Project](progect_image.jpeg)
 
-
+![Project Running ](project_image_running.jpeg)
 
 ## Project presentation video
 
