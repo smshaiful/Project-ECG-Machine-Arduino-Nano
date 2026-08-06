@@ -1,4 +1,5 @@
-# DIY ECG Machine using Arduino Nano and AD8232
+# Real-Time ECG Monitoring System
+
 
 ## Course Code EEE 2122
 Jamalpur Science and Technology University
