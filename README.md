@@ -1,7 +1,5 @@
 # Real-Time ECG Monitoring System
 
-
-## Course Code EEE 2122
 Jamalpur Science and Technology University
 ## 👥 Group Members:
 - SM Saiful Islam Tutul
