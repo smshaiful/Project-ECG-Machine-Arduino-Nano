@@ -6,8 +6,6 @@ Jamalpur Science and Technology University
 - SM Saiful Islam Tutul
 - Dhruba Acharjee
 - Nahiyan Mokarrim
-- Naymul Islam Bhuyan
-- Yeasin Bhuiyan
 - Sanot Kumar Ghosh
 
 ## Supervisor
